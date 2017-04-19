@@ -12,6 +12,7 @@ namespace PublishingPipeline.Console
             console.WriteLine("rt-1 - Commit 2");
             console.WriteLine("rt-2 - Commit 2");
             console.WriteLine("rt-1 - Commit 4");
+            console.WriteLine("rt-2 - Commit 3");
             console.WriteLine("rt-1 - Commit 5");
         }
     }
