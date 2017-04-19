@@ -8,6 +8,7 @@ namespace PublishingPipeline.Console
         static void Main(string[] args)
         {
             console.WriteLine("rt-1 - Commit 1");
+            console.WriteLine("rt-1 - Commit 2");
         }
     }
 }
