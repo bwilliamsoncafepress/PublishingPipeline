@@ -1,4 +1,5 @@
 ﻿using System;
+using console = System.Console;
 
 namespace PublishingPipeline.Console
 {
@@ -6,6 +7,7 @@ namespace PublishingPipeline.Console
     {
         static void Main(string[] args)
         {
+            console.WriteLine("rt-1 - Commit 1");
         }
     }
 }
